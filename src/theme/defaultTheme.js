@@ -50,10 +50,12 @@ export const defaultTheme = createTheme({
     h1:{
       fontFamily: "'Roboto', sans-serif",
       fontSize : "2.125rem"//34
+      
     },
     h2:{
         fontFamily: "'Roboto', sans-serif",
-        fontSize:"1.625rem"//26
+        fontSize:"1.625rem",//26
+        fontWeight:400
     },
     h3:{
         fontFamily: "'Roboto', sans-serif",
